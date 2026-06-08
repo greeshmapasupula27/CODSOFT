@@ -8,6 +8,7 @@ This repository contains all the tasks completed for the CODSOFT Data Science In
 2. Iris Flower Classification
 3. Sales Prediction Using Python
 4. Credit Card Fraud Detection
+5. Titanic_Project
 
 ## Technologies Used
 - Python
